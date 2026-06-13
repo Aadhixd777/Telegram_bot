@@ -6,11 +6,11 @@ from phonenumbers import geocoder
 from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 from datetime import datetime
 
-BOT_TOKEN = "8825805424:AAENFLuq4M3w-BTl9XRI221gNcLSwqeSOH4"
+BOT_TOKEN = "8828101455:AAFaaQ6Hb6cdUvhuE7HLKYRXMdKJ9WdBiik"
 bot = Bot(token=BOT_TOKEN)
 
 GROUP_IDS = [
-    --1003901583807,
+    --1004364203445,
 
 ]
 
@@ -121,8 +121,8 @@ Powered by Aadhixd
 async def send_to_all_groups(message):
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [
-            InlineKeyboardButton(text="☎️ Number", url="https://t.me/junaidaliniz"),
-            InlineKeyboardButton(text="☎️ Number", url="https://t.me/junaidaliniz")
+            InlineKeyboardButton(text="☎️ Number", url="https://t.me/Aadhixd_otp_grp"),
+            InlineKeyboardButton(text="☎️ Number", url="https://t.me/Aadhixd_otp_grp")
         ]
     ])
     for group in GROUP_IDS:
