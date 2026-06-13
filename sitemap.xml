@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/issues</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/pulls</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/actions</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/security</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/blob/main/README.md</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/blob/main/main.py</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/blob/main/requirements.txt</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/activity</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/releases</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/search?q=repo%3AAadhixd777%2FTelegram_bot++language%3APython</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/labels</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/milestones</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Aadhixd777/Telegram_bot/milestones?state=closed</loc>
+  <lastmod>2026-06-13T03:49:45+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
