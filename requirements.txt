@@ -1,3 +1,5 @@
-requests
-python-telegram-bot
-phonenumbers
+python-telegram-bot==22.7
+aiohttp==3.13.5
+requests==2.33.1
+urllib3=2.6.3
+APScheduler==3.11.2
