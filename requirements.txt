@@ -1,4 +1,4 @@
 requests
 phonenumbers
-python-telegram-bot
+python-3.10
 imghdr
